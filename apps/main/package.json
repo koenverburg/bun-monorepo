@@ -1,0 +1,15 @@
+{
+  "name": "@apps/main",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "bun-types": "latest",
+    "@toolbox/common": "workspace:*"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

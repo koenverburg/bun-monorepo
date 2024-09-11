@@ -1,0 +1,3 @@
+preload = ["./preload.ts"]
+sourcemap = "external"
+tsconfig = "tsconfig.json"

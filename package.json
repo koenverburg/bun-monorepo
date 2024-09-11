@@ -1,0 +1,15 @@
+{
+  "name": "bun-mono",
+  "module": "index.ts",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "core-js": "^3.38.1",
+    "reflect": "^0.1.3",
+    "reflect-metadata": "^0.2.2",
+    "tsyringe": "^4.8.0"
+  }
+}
