@@ -1,6 +1,5 @@
 {
   "name": "bun-mono",
-  "module": "index.ts",
   "private": true,
   "workspaces": [
     "apps/*",
